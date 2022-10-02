@@ -1,0 +1,23 @@
+h1{
+	background-color: deepskyblue;
+	text-align: center;
+	line-height: 70px;
+}
+.header, .hero, .body, .footer{
+	background-color: tan;
+	margin-bottom: 10px;
+}
+.box{
+	margin: 10px 0;
+	min-height: 100px;
+	background-color: green;
+	color: white;
+	font-size: 40px;
+}
+
+.h_3{
+	background-color: red;
+}
+.b_5{
+	background-color: orange;
+}
